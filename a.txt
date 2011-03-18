@@ -1,3 +1,4 @@
+reopen
 closing ticket
 reopening a ticket
 closing ticket using commit msg

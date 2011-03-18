@@ -1,3 +1,4 @@
+again open
 reopen
 closing ticket
 reopening a ticket

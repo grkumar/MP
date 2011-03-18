@@ -1,3 +1,4 @@
+reopening a ticket
 closing ticket using commit msg
 checking for resolved ticket in lighthouseapp
 afsdaf

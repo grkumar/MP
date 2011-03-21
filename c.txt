@@ -1,2 +1,3 @@
-1)Testing for fogbugz
-2)In this commit going to check whether the checkin without bug id will be reflected in fogbugz
+1)Testing for fogbugz : Result if bug id given in commit, gets reflected in fogbugz
+2)In this commit going to check whether the checkin without bug id will be reflected in fogbugz: Result- If without bug id does not reflect in fogbugz
+3)Check with more than one bugid

@@ -2,4 +2,5 @@
 2)In this commit going to check whether the checkin without bug id will be reflected in fogbugz: Result- If without bug id does not reflect in fogbugz
 3)Check with more than one bugid: Result log msg to be changed
 4)Changing the log msg  : Only one bug id is updated
-5)Checking for new bug id :
+5)Checking for new bug id : correct
+6)Checking for 2ids : 

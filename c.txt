@@ -3,4 +3,5 @@
 3)Check with more than one bugid: Result log msg to be changed
 4)Changing the log msg  : Only one bug id is updated
 5)Checking for new bug id : correct
-6)Checking for 2ids : 
+6)Checking for 2ids : Failure
+7)Checking for commit with 2 ids in two lines

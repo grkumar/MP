@@ -3,3 +3,5 @@
 2)Now checking with the same bug id
  Result : Does not show
 3)Hence Again doing the same
+ Result : Does not show
+4)Check for ticket which is already filed

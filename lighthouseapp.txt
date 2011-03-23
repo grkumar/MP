@@ -10,4 +10,5 @@ For updating tickets , commit msg should be of format [#<ticket number> state:an
 5)Check with correct format for unfiled ticket
 	Result : Does not show
 6)Check for the previous case now after filing ticket
+  Result : Only shows the commits after ticket filing is over
 

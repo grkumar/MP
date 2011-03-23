@@ -1,3 +1,4 @@
+For updating tickets , commit msg should be of format [#<ticket number> state:any state]
 1)Initial version checking for a non entry issue id.
  Result : Does not show
 2)Now checking with the same bug id
@@ -5,3 +6,5 @@
 3)Hence Again doing the same
  Result : Does not show
 4)Check for ticket which is already filed
+	Result : Failed as till now we have given tickets in wrong format [Bugz Id :]
+5)Check with correct format

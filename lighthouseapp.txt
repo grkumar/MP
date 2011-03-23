@@ -7,4 +7,7 @@ For updating tickets , commit msg should be of format [#<ticket number> state:an
  Result : Does not show
 4)Check for ticket which is already filed
 	Result : Failed as till now we have given tickets in wrong format [Bugz Id :]
-5)Check with correct format
+5)Check with correct format for unfiled ticket
+	Result : Does not show
+6)Check for the previous case now after filing ticket
+

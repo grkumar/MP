@@ -4,3 +4,5 @@ For linking a changeset to bug id the format should be of Bug[zs]*\s*IDs*\s*|Cas
 2)Testing with a filed bug id 
 	Result : Failure as the commit msg format was wrong
 3)Testing the same with right format
+	Result : Failure as the fogbugz url was wrong in github
+4)Testing the same with the right url in github

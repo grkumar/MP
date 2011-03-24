@@ -12,4 +12,5 @@ For updating tickets , commit msg should be of format [#<ticket number> state:an
 6)Check for the previous case now after filing ticket
   Result : Only shows the commits after ticket filing is over
 7)Check for show changesets in timeline with checkbox unchecked
+	Result: Changesets do not appear in timeline(Dashboard overview). But in the changesets tab, we can see them.
 

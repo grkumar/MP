@@ -10,3 +10,4 @@ For linking a changeset to bug id the format should be of Bug[zs]*\s*IDs*\s*|Cas
 5)Testing for a feature id
 	Result : Success and displays as for case 4
 6)Testing for non filed bud id
+	Result : Does not show as expected. Once the bug id is filed, the commit shows. Testing the above commit after the bug id gets filed. Hope to get 2 checkins for the bug

@@ -1,3 +1,4 @@
 For linking a changeset to bug id the format should be of Bug[zs]*\s*IDs*\s*|Case[s]*)[#:; ]+((\d+[ ,:;#]*)+)/i
 1)Initial version checking for a non entry bug id.
-	Result : 
+	Result : Does not show in fogbugz as expected
+2)Testing with a filed bug id 

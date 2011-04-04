@@ -1,1 +1,2 @@
 Check which user name gets reflected in the commit
+Check for git working
